@@ -1,4 +1,4 @@
-export default function setFromArray(ele) {
-  return new Set(ele);
+export default function setFromArray(array) {
+  return new Set(array);
 }
 
